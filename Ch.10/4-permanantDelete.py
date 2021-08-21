@@ -18,6 +18,8 @@ you are sure there aren't any issues in the code
 be installed in pip first.
 '''
 
+#NOTE THAT THIS MODULE DOES NOT WORK ON MAC OS X FOR AN UNKNOWN REASON
+
 #Create a file to delete
 baconFile = open('bacon.txt', 'a')
 baconFile.write("Bacon is not a vegetable")

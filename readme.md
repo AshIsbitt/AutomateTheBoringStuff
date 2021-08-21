@@ -9,11 +9,15 @@ The earlier chapters (Ch1-6) have been skipped as they were a recap for me - as 
 ### Modules covered
 
 - re
-- pyperclip
-- pyInputPlus
+- pyperclip  - (requires pip install)
+- pyInputPlus - (requires pip install)
 - random
 - time
 - pathLib
 - os
 - shelve
-- pprint
+- pprint (Pretty Print)
+- shutil (Shell Utilities)
+- send2trash - (Requires pip install)
+	- Note that this module crashes on OS X for an unknown reason
+- zipfile
