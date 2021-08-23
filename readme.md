@@ -21,3 +21,4 @@ The earlier chapters (Ch1-6) have been skipped as they were a recap for me - as 
 - send2trash - (Requires pip install)
 	- Note that this module crashes on OS X for an unknown reason
 - zipfile
+- traceback

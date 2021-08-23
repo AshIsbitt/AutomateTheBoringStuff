@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/Users/ashisbitt/Desktop/AutomateTheBoringStuff/Ch.11/2-CallStackExample.py", line 10, in bacon
+    raise Exception('Error message here')
+Exception: Error message here
