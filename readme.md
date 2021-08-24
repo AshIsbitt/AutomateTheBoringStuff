@@ -23,3 +23,7 @@ The earlier chapters (Ch1-6) have been skipped as they were a recap for me - as 
 - zipfile
 - traceback
 - logging
+- webbrowser
+- requests
+- beautifulsoul4/bs4
+- selenium
