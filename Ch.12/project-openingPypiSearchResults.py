@@ -20,6 +20,6 @@ linkElems = soup.select('.package-snippet')
 
 numOpen = min(5, len(linkElems))
 for i in range(numOpen):
-    urlToOpen = (f'https://pypi.org{linkElems[i].get('href')}')
+    urlToOpen = (f'https://pypi.org/{linkElems[i].get('href')}')
     print(f'Opening {urlToOpen}')
     webbrowser.open(urlToOpen)
