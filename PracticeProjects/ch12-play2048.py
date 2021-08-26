@@ -22,17 +22,14 @@ gameElem = browser.find_element_by_tag_name('body')
 # Loop through sending up, right, down left
 while True:
     # Detect if the game has ended
-    try:
+    if browser.find_elements_by_class_name('game-over'):
         print("Game Over")
-        gameoverElem = browser.find_element_by_class_name(
-            'game-message game-over')
-
         # Print to terminal final score
-        scoreElem = browser.find_element_by_class_name('score-container')
-        print(f'Final score: {scoreElem[0].getText()}')
+        scoreElem = browser.find_element_by_class_name('score-container').text
+        print(f'Final score: {scoreElem}')
         break
 
-    except:
+    else:
         gameElem.send_keys(Keys.UP)
         time.sleep(0.2)
         gameElem.send_keys(Keys.RIGHT)
