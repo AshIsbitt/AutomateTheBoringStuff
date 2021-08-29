@@ -2,3 +2,6 @@ Al-Sweigart-Automate-The-Boring-Stuff-With-Python_-Practical-Programming-For-Tot
 .DS_Store
 geckodriver.log
 Ch.12/geckodriver.log
+Ch.14/credentials-sheets.json
+Ch.14/token-sheets.pickle
+Ch.14/token-drive.pickle
