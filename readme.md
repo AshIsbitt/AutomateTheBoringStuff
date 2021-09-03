@@ -32,5 +32,6 @@ The earlier chapters (Ch1-6) have been skipped as they were a recap for me - as 
 - EZsheets
 - PyPDF2
 - Python-Docx
+- pywin32
 - csv
 - json
