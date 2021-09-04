@@ -35,5 +35,4 @@ The earlier chapters (Ch1-6) have been skipped as they were a recap for me - as 
 - pywin32
 - csv
 - json
-- time
-
+- datetime
