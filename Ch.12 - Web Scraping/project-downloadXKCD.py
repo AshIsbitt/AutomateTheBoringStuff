@@ -40,6 +40,6 @@ while not url.endswith('#'):
 
     # Get prev button URL
     prevLink = soup.select('a[rel="prev"]')[0]
-    url += prevLink.get('href')
+    url = 'https://xkcd.com' + prevLink.get('href')
 
 print('Done!')
