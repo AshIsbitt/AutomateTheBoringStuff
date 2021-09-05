@@ -1,7 +1,8 @@
 Al-Sweigart-Automate-The-Boring-Stuff-With-Python_-Practical-Programming-For-Total-Beginners-No-Starch-Press-2019.pdf
 .DS_Store
 geckodriver.log
-Ch.12/geckodriver.log
-Ch.14/credentials-sheets.json
-Ch.14/token-sheets.pickle
-Ch.14/token-drive.pickle
+Ch.12 - Web Scraping/geckodriver.log
+Ch.14 - Working With Google Sheets/credentials-sheets.json
+Ch.14 - Working With Google Sheets/token-sheets.pickle
+Ch.14 - Working With Google Sheets/token-drive.pickle
+Ch.18 - Sending Email & Text Messages/USERNAMEANDPASSWORD.py
