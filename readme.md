@@ -40,5 +40,6 @@ The earlier chapters (Ch1-6) have been skipped as they were a recap for me - as 
 - subprocesses
 - smtpLib
 - imapclient
-- pyzmail36
+- pyzmail362
 - twilio
+- Pillow
