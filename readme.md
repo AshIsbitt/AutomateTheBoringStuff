@@ -23,23 +23,24 @@ The earlier chapters (Ch1-6) have been skipped as they were a recap for me - as 
 - zipfile
 - traceback
 - logging
-- webbrowser
-- requests
-- beautifulsoul4/bs4
-- lxml
-- selenium
-- openpyxl 2.6.2
-- EZsheets
-- PyPDF2
-- Python-Docx
+- webbrowser  - (requires pip install)
+- requests  - (requires pip install)
+- beautifulsoul4/bs4  - (requires pip install)
+- lxml  - (requires pip install)
+- selenium  - (requires pip install)
+- openpyxl 2.6.2  - (requires pip install)
+- EZsheets  - (requires pip install)
+- PyPDF2  - (requires pip install)
+- Python-Docx   - (requires pip install)
 - pywin32
 - csv
 - json
 - datetime
-- threading
+- threading  - (requires pip install)
 - subprocesses
 - smtpLib
-- imapclient
-- pyzmail362
-- twilio
-- Pillow
+- imapclient  - (requires pip install)
+- pyzmail36  - (requires pip install)
+- twilio  - (requires pip install)
+- Pillow   - (requires pip install)
+- pyautogui  - (requires pip install)
